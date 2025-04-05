@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.8.4",
+    "flask": "^0.2.10",
+    "requests": "^0.3.0"
+  }
+}
